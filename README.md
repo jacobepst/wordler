@@ -1,2 +1,2 @@
 # wordler
-A playground for testing wordler strategies. 
+A playground for testing wordle strategies. 
